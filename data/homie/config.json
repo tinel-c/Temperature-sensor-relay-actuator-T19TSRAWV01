@@ -1,0 +1,14 @@
+{
+    "name": "Temperature sensor / relay living",
+    "wifi": {
+      "ssid": "ReteauaLuiTinel",
+      "password": "[reteaualuitinel]"
+    },
+    "mqtt": {
+      "host": "192.168.2.1",
+      "port": 1883
+    },
+    "ota": {
+      "enabled": true
+    }
+  }
